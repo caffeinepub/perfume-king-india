@@ -98,7 +98,7 @@ export default function Footer() {
                 className="flex items-center gap-3 font-body text-sm text-muted-foreground hover:text-gold transition-colors"
               >
                 <SiWhatsapp size={16} className="text-gold" />
-                +91 99999 99999
+                +91 9999770400
               </a>
               <a
                 href="https://instagram.com/perfumekingindia"

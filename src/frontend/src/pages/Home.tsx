@@ -781,7 +781,7 @@ export default function Home() {
                       WhatsApp
                     </div>
                     <div className="font-body text-sm text-muted-foreground">
-                      +91 99999 99999
+                      +91 9999770400
                     </div>
                   </div>
                   <span className="ml-auto text-gold opacity-0 group-hover:opacity-100 transition-opacity">
